@@ -41,6 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!-- >
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -58,6 +59,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
